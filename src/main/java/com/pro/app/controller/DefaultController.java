@@ -49,7 +49,7 @@ public class DefaultController {
         //return "안녕 Kubernetes Another Class  ["+ applicationVersion +"]\n";
         //return "Bye Kubernetes Another Class  ["+ applicationVersion +"]\n";
         //return "Hello Kubernetes Another Class ["+ applicationVersion +"]\n";
-        return "Good Job Kubernetes Another Class ["+ applicationVersion +"]\n";
+        return "ㅅㄱ Kubernetes Another Class ["+ applicationVersion +"]\n";
     }
     @GetMapping(value ="**")
     public String noPath(){
